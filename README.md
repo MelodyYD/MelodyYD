@@ -1,8 +1,8 @@
 <div align=center>
 
 <!--헤더-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:dfcbf5,100:856aa3&height=400&text=Welcome!&fontColor=d9ba4a&rotate=25&fontAlign=75&fontAlignY=45.5&animation=twinkling&desc=This%20is%20my%20github.&descAlign=20&descAlignY=52.4)
-<br><br><br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:dfcbf5,100:856aa3&height=300&text=Welcome!&fontColor=d9ba4a&rotate=19.3&fontAlign=75&fontAlignY=44&animation=twinkling&desc=This%20is%20my%20github.&descAlign=20&descAlignY=53.2)
+<br><br>
 
 <!--자기소개-->
 ### 💙 E Jung 💙
@@ -46,16 +46,17 @@
 
 <!--내 능력치-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyWD&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=MelodyWD&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=MelodyWD&theme=buefy&show_icons=true">
+<!--![MelodyWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelodyWD&theme=buefy&show_icons=true)-->
 
 <br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=MelodyWD)](https://solved.ac/MelodyWD)
 
-<br>
+<br><br>
 
 <!-- 헤더 마무리 -->
-![header](https://capsule-render.vercel.app/api?type=slice&section=footer&color=0:856aa3,100:dfcbf5&height=400)
+![header](https://capsule-render.vercel.app/api?type=slice&section=footer&color=0:856aa3,100:dfcbf5&height=300)
 
 <!--
 ## Hi there 👋
