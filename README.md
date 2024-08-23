@@ -5,13 +5,15 @@
 <br><br><br>
 
 <!--자기소개-->
-💙 E Jung 💙
-<br>
+### 💙 E Jung 💙
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMelodyYD&count_bg=%2342B4E6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 
+---
+<br>
+
 <!--보유 기술-->
-🌱 t e c h 🌱<br>
+### 🌱 t e c h 🌱<br>
 <!-- OS -->
 ![](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,15 +29,15 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 <br><br>
----
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=MelodyYD)](https://solved.ac/MelodyYD)
-<br><br>
+
 ---
+
+<br>
 
 <!--내 능력치-->
 [![MelodyWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelodyWD)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <br>
