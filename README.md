@@ -37,9 +37,6 @@
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=&logoColor=white"/>
 
 <br>
-
-
-
 <br><br>
 <br>
 
@@ -48,9 +45,12 @@
 <br>
 
 <!--내 능력치-->
-[![MelodyWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelodyWD)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyWD&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=MelodyWD&show_icons=true">
 
-<br>
+<br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=MelodyWD)](https://solved.ac/MelodyWD)
 
 <br>
 
