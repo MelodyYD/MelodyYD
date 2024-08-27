@@ -45,13 +45,13 @@
 <br>
 
 <!--내 능력치-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyWD&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=MelodyWD&theme=buefy&show_icons=true">
-<!--![MelodyWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelodyWD&theme=buefy&show_icons=true)-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyYD&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=MelodyYD&theme=buefy&show_icons=true">
+<!--![MelodyYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelodyYD&theme=buefy&show_icons=true)-->
 
 <br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=MelodyWD)](https://solved.ac/MelodyWD)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=MelodyYD)](https://solved.ac/MelodyYD)
 
 <br><br>
 
